@@ -4,6 +4,8 @@
 
 Certain regions of images will be selected to pickup the brightness level and finally averaging those value will give the average brightness level of the image.
 
+I used Computer Vision and is built on Google Colab.
+
 Step 1: Run img_bright.ipynb
 
 ![one](https://user-images.githubusercontent.com/50323219/66265957-31a3a200-e83c-11e9-8c74-27e0bbbdf8f3.JPG)
